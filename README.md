@@ -1,8 +1,8 @@
 | ***Keys*** | ***Skill***    | 
 |
-| **UP**     | move up        |  
-| **DOWN**   | move down      |  
-| **LEFT**.  | move left      |  
+| **UP**.....| move up        |  
+| **DOWN**...| move down      |  
+| **LEFT**...| move left      |  
 | **RIGHT**  | move right     |  
 | **W**      | shooting up    |  
 | **S**      | shooting down  |    
