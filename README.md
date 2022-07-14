@@ -1,4 +1,4 @@
-**`Keys`** - Skill 
+**`Keys`** - Skills 
 
 **`UP`** - move up  
 **`DOWN`** - move down   
