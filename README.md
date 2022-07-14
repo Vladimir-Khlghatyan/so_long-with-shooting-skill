@@ -1,6 +1,6 @@
 ***Keys*** - ***Skill*** 
 
-`**UP**` - move up  
+**`UP`** - move up  
 **DOWN** - move down   
 **LEFT** - move left  
 **RIGHT** - move right  
