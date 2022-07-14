@@ -1,4 +1,4 @@
-***Keys*** - ***Skill*** 
+***`Keys*** - ***Skill`*** 
 
 **UP** - move up  
 **DOWN** - move down   
@@ -8,7 +8,3 @@
 **S** - shooting down   
 **A** - shooting left   
 **D** - shooting right   
-
-
-`rgb(9, 105, 218) text` text
-
