@@ -10,5 +10,5 @@
 **D** - shooting right   
 
 
-`rgb(9, 105, 218)` text
+`rgb(9, 105, 218) text` text
 
