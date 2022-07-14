@@ -2,7 +2,7 @@
 |
 | **UP**.....| move up        |  
 | **DOWN**...| move down      |  
-| **LEFT**...| move left      |  
+| **LEFT**.....| move left      |  
 | **RIGHT**  | move right     |  
 | **W**      | shooting up    |  
 | **S**      | shooting down  |    
